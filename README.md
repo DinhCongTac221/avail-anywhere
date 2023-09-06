@@ -1,8 +1,10 @@
 ## Avail-Anywhere
 
-To run an Avail light client:-
+Follow these steps to connect run a Avail light client.
+
 
 1. Install [Termux](https://f-droid.org/repo/com.termux_117.apk).
+
 
 2. Update Termux:
 ```bash
