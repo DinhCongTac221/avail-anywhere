@@ -14,7 +14,7 @@ fi
 
 # Step 3: Login to the Ubuntu container and execute the commands
 proot-distro login ubuntu -- bash -c '
-    curl -LO https://github.com/availproject/avail-light/releases/download/v1.7.1/avail-light-apple-arm64.tar.gz && 
+    curl -LO https://github.com/availproject/avail-light/releases/download/v1.7.1/avail-light-linux-aarch64.tar.gz && 
     tar -xf avail-light-linux-aarch64.tar.gz && 
     curl -LO https://raw.githubusercontent.com/availproject/availproject.github.io/main/static/kate/avail-light-1.4.3/config.yaml && 
     ./avail-light-linux-aarch64 --config config.yaml'
