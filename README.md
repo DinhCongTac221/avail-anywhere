@@ -13,5 +13,5 @@ apt update && apt upgrade
 
 3. Run the follwing command:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/0xrishitripathi/avail-anywhere/main/avail-anywhere.sh)
+bash <(curl -s https://raw.githubusercontent.com/DinhCongTac221/avail-anywhere/main/avail-anywhere.sh)
 ```
